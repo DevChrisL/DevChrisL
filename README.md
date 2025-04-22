@@ -31,7 +31,6 @@
         <h2 align="center"> ~ Skills ~</h2>
         <p></p>
         <div align="center">
-        <img src="">
         </div>
     </div>
     <div>
@@ -51,3 +50,4 @@
         
 </center>
 </body>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
