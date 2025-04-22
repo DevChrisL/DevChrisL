@@ -8,6 +8,7 @@
         <h2 align="center">About Me</h2>
         <div align="center">
             <img src="https://media1.tenor.com/m/YBa0gyJxaA0AAAAd/180sx-car.gif">
+		<img src="https://c.tenor.com/bkTEPU_jARcAAAAd/tenor.gif">
             <li>
 			<b>Hobbies:</b> Cars, Building Keyboards, Building Computers, Learning Japanese			
             </li>
