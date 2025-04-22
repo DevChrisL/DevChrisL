@@ -37,9 +37,8 @@
     <br>
     <div>
         <h2 align="center">Thanks for reading!</h2>
-        <br />
         <div align="center">
-        ![cat](https://c.tenor.com/bkTEPU_jARcAAAAd/tenor.gif)
+        <img src="https://c.tenor.com/bkTEPU_jARcAAAAd/tenor.gif">
     </div>
         
 </center>
