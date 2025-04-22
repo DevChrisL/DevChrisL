@@ -15,7 +15,7 @@
             <b>Loves:</b> Tech, Games, Cars
             </li>
             <li>
-            <b>Searching for a Software development job <a href="https://www.linkedin.com/in/christopher-luevano-b86256335/">My Linkedin<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+            <b>Searching for a Software development job, <a href="https://www.linkedin.com/in/christopher-luevano-b86256335/">My Linkedin</a>
             </li>
         </div>
     </div>
