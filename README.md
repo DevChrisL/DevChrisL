@@ -3,13 +3,6 @@
     <div>
         <h1>Welcome to my profile</h1>
         <br>
-            <div align="center">
-                <h3 align="left">Connect with me:</h3>
-					<p align="left">
-						<a href="https://linkedin.com/in/christopher-luevano-b86256335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher-luevano-b86256335" height="30" width="40" /></a>
-					</p>
-                    <br>
-            </div>
     </div>
     <div>
         <h2 align="center">About Me</h2>
@@ -22,7 +15,7 @@
             <b>Loves:</b> Tech, Games, Cars
             </li>
             <li>
-            <b>Searching for a Software development job
+            <b>Searching for a Software development job <a href="https://www.linkedin.com/in/christopher-luevano-b86256335/">My Linkedin<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
             </li>
         </div>
     </div>
@@ -46,7 +39,7 @@
         <h2 align="center">Thanks for reading!</h2>
         <br />
         <div align="center">
-        <img src="https://media1.tenor.com/m/bkTEPU_jARcAAAAd/cat-is-super-cool-and-here-cat.gif">
+        <img src="https://c.tenor.com/bkTEPU_jARcAAAAd/tenor.gif">
     </div>
         
 </center>
